@@ -1,2 +1,2 @@
-# im Vignesh Web & App developer
+# Im Vignesh Web & App developer
 Config files for my GitHub profile.
