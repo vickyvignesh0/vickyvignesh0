@@ -1,2 +1,2 @@
 # Hello, I'm Vignesh 👋👨‍💻
-<img src = "vignesh Krishan.png" width="100%">
+<img src = "vignesh-banner.png" width="100%">
