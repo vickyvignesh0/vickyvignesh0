@@ -1,4 +1,4 @@
-# Hi, I'm Vignesh 👋
+# Hi, I'm Vignesh Krishnan👋
 
 💻 .NET Developer  
 ⚙️ Building web apps, APIs, and simple solutions that work
